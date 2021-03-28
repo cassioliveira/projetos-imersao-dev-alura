@@ -1,0 +1,36 @@
+body {
+    background-image: url(black-hole.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    height: auto;
+}
+
+label {
+    color: red;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+
+p {
+    text-align: center;
+    font-family: Ubuntu, Impact, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+
+#versao {
+    color: whitesmoke;
+    font-size: 10px;
+}
+
+#logo-imersao {
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
